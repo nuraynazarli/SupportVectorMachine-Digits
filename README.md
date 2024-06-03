@@ -1,1 +1,1 @@
-# SupportVectorMachine-Digits
+# Digits with Support Vector Machine
